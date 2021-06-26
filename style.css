@@ -1,0 +1,19 @@
+
+#mycarousel{
+    background-color:darkorange;
+}
+#mycarousel img{
+    height:300px;
+    margin-top:35px;
+}
+.carousel-inner p{
+    font-size:25px;
+    color:black;
+    margin-top:15px;
+    margin-bottom:15px;
+    font-family:fantasy;
+}
+.index{
+    height:50px;
+    width:50px;
+}
